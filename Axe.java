@@ -1,5 +1,3 @@
-package junit_lab;
-
 public class Axe {
 
     private int attackPoints;
