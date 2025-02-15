@@ -1,9 +1,8 @@
----------------------------------
-• What is Unit Testing?;
+JUnit
 -----------------------------
-• Unit Testing Basics;
+• Unit Testing
 -----------------------------
-• Dependancy Injection;
+• Dependancy Injection
 --------------------------------
-• Mocking and Mock Objects.
+• Mocking and Mock Objects
 -------------------------------
