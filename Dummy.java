@@ -1,5 +1,3 @@
-package rpg_lab;
-
 public class Dummy {
 
     private int health;
