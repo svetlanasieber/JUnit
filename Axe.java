@@ -1,4 +1,4 @@
-package rpg_lab;
+package junit_lab;
 
 public class Axe {
 
